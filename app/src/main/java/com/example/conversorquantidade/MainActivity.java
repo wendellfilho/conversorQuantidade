@@ -12,7 +12,7 @@ import com.example.conversorquantidade.R;
 public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
-    private String fullText = "Texto para animação progressiva...";
+    private String fullText = "Será que vai aparecer?...";
     private int charIndex = 0;
     private Handler handler = new Handler(Looper.getMainLooper());
 

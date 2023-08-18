@@ -1,0 +1,5 @@
+<resources>
+    <style name="App.ConversorQuantidade" parent="Theme.AppCompat.Light">
+        <!-- Definições do estilo -->
+    </style>
+</resources>
